@@ -1,0 +1,9 @@
+2026-06-03 10:00:00,001 | INFO | Batch job started
+2026-06-03 10:00:00,005 | INFO | Loading configuration
+2026-06-03 10:00:00,006 | INFO | Configuration validation successful
+2026-06-03 10:00:00,006 | INFO | Reproducible seed set to 42
+2026-06-03 10:00:00,007 | INFO | Loading dataset
+2026-06-03 10:00:00,010 | INFO | Rows loaded: 11
+2026-06-03 10:00:00,011 | INFO | Starting rolling mean processing
+2026-06-03 10:00:00,013 | INFO | Generating trading signals
+2026-06-03 10:00:00,015 | INFO | Batch job completed successfully
